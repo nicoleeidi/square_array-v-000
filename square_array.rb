@@ -6,6 +6,9 @@ i=0
     newarray[i]=num**2
     i+=1
 
+  #array.each_with_index do |num,i|
+  #newarray[i]=num**2
+
 
   end
   return newarray
