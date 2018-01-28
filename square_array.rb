@@ -6,7 +6,7 @@ i=0
     newarray[i]=num**2
     i+=1
 
-  
+
   end
   return newarray
 end
